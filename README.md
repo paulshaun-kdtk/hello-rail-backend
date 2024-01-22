@@ -22,6 +22,10 @@
 
 **hello_rails_backend** is a web app designed with as a backend to be consumed by a react frontend.
 
+
+**link to front-end** https://github.com/paulshaun-kdtk/hello-rails-front-end
+
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
