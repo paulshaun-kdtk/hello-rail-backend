@@ -8,7 +8,6 @@
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
 
-
 Greeting.create(message: 'Hello, welcome to the Greeting API!')
 Greeting.create(message: 'Como estas las Greeting APi')
 Greeting.create(message: 'Makadii, Tinokukwazisai ku Greeting API')
